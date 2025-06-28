@@ -1,0 +1,14 @@
+
+{
+  "name": "OnePace",
+  "version": "1.0.0",
+  "language": "en",
+  "type": "video",
+  "package": "onepace",
+  "url": "https://onepace.net",
+  "sourceCodeUrl": "https://onepace.net",
+  "description": "Watch One Pace episodes in Mangayomi.",
+  "authors": ["you"],
+  "repositoryUrl": "https://onepace.net",
+  "source": "onepace/onepace.dart"
+}
